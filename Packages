@@ -1,0 +1,439 @@
+Package: BO4B.hende.zeppelin
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.alexzielenski.zeppelin
+Filename: debs/BO4.deb
+Size: 21880
+MD5sum: 975b0c1e9def5c47e196df3058d90c8e
+SHA1: f14f40c065f669d2286be38381340a6e5d5a3e7e
+SHA256: afedbcc8e6c1d255ffcd0bf2a4e3e334fc5a5917097c8f4fc6bcad5f299fec8f
+Section: Zeppelin
+Description: Black Ops 4 logo for zepplin .
+Author: Hende
+Name: Black Ops 4 - Zeppelin
+
+Package: ai.akemi.appsyncunified
+Version: 116.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 636
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 26.0)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (<< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/ai.akemi.appsyncunified_116.2_iphoneos-arm.deb
+Size: 78580
+MD5sum: 4ecec5319346560a6355ccafd7f9826d
+SHA1: ee8fdded08ef778c625180d81fbe74a97988dba0
+SHA256: cd700c91f746cf3a58ac534d43d4ff8278ffb9b92683456649bbba431adfe76e
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: com.aussieappz.JellyMonster
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AussieAppz <info@aussieappz.com>
+Depends: com.matchstic.xenhtml
+Filename: debs/com.aussieappz.jellymonster_1.0.deb
+Size: 2100
+MD5sum: 01951268b427fb9966f0b3c8ca4d05ed
+SHA1: 2d078a1f8bf71f0acf05a3b84dc5f5bb234226f5
+SHA256: 22362f09848fcc06a221f10772ef732ebea49a37d2698de40ae7f8af38eaef1c
+Section: Lockscreen
+Description: JellyMonster lock screen.
+Author: AussieAppz <info@aussieappz.com>
+Name: JellyMonster Lock Screen
+
+Package: com.dirtybean.trackdazios3
+Version: 1.0-2
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Installed-Size: 115
+Depends: firmware (<= 3.1.3), winterboard
+Recommends: com.dirtybeans.icon
+Suggests: com.dirtybeans.icon
+Filename: debs/com.dirtybeans.trackdazios3_1.0-2_iphoneos-arm.deb
+Size: 10988434
+MD5sum: 672a2960761a54a79d8294f329075b0f
+SHA1: dd59cd13d4dddb8f3d7bbc44b31d7788a0cf3ab0
+SHA256: 78a323adbbe6aeaa3c871a28e03c6425a8bf884461150e86b948dd88996238c5
+Section: DirtyBeans
+Priority: standard
+Homepage: http://www.DirtyBeans.com/repo/
+Description: Theme Tweaks for IOS 3.x.x
+ TrackDaz theme.  Installing this package will install
+ TrackDaz.theme
+ note
+ tested on firmware 3.0.0-3.1.3
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://www.DirtyBeans.com/repo/trackdazios3/
+Name: TrackDaz Theme ios3
+Sponsor: Dirty Beans
+
+Package: com.dirtybeans.github.io.autoinstfldr
+Version: 1.0-0
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Installed-Size: 2
+Depends: com.dirtybeans.github.io.dbsicons
+Filename: debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
+Size: 802
+MD5sum: 11f00976159e875fc61edf0631731805
+SHA1: 2b53738c5b91c1ecbb97c83df70c9c69e1fd5cd7
+SHA256: 0ad155648f0d477816d88d0c263bd436a7ffa8536fd25bc99b43c51566cc5491
+Section: DirtyBeans
+Homepage: http://dirtybeans.github.io
+Description: Install's the Cydia Auto install Folder.
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://dirtybeans.github.io/autoinstfldr.html
+Icon: file:///Applications//Cydia.app/Sections/DirtyBeans.Cydia.png
+Name: Auto Install Folder
+Sponsor: DirtyBeans
+
+Package: com.gebeto.audioenglish
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: gebeto <slavik.nychkalo@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/audioenglish_1.0.deb
+Size: 5564
+MD5sum: cf5b6eb8347d03f26159b7d0694d0698
+SHA1: e69ba6caabc58a786f2a785008e7efbd92185ccd
+SHA256: 4f07b41066fb4db8ba9dd5faf288a1163ca801de6c2a8f7c603f6159517cbdc2
+Section: Tweaks (Hacks)
+Description: Взлом  на подписку, все открыто
+Author: gebeto <slavik.nychkalo@gmail.com>
+Name: Самоучитель английского языка. Полный курс: иностранный язык с нуля для начинающи�
+
+Package: com.ichitaso.3gshdvideoenabler
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: firmware  (<= 4.2.1), cy+model.iphone (= 2.1)
+Conflicts: com.iphonerepocenter.hdvideoenabler3gstheme
+Filename: debs/com.ichitaso.3gshdvideoenabler.deb
+Size: 3714
+MD5sum: c0c87c465d95c535deec771e520a038b
+SHA1: 636ae4ef1f4c152ff2dff7a01e5931936ff03ee1
+SHA256: d00e05611ef672db86deb65d0d4c010aff32f2c60bcb857498c3bc7e9e102489
+Section: System
+Homepage: http://ichitaso.com
+Description: SuperHD Video Rec Enabled for iPhone 3GS.
+Tag: purpose::extension
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/3gshdvideo.html
+Dev: ichitaso
+Name: 3GS HD Video Enabler
+
+Package: com.lizynz.vkfix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.lizynz.vkfix_1.0.1_iphoneos-arm.deb
+Size: 3198
+MD5sum: 8eefb8b2c5d4b4ac67f7f28a65fc8fe8
+SHA1: d610bfad65303119b039a7618fab649e3c655e4d
+SHA256: 0e8c09e3ccaa0409a9c28556966d218890da1041328669995e5203815c0386d9
+Section: Tweaks
+Description: Fixed crash applications VK on palera1n!
+Author: Lizynz
+Name: VKFix
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkfix/vkfix.json
+
+Package: com.ps.bigmoji
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (<< 10.0)
+Filename: debs/com.ps.bigmoji_1.0.0_iphoneos-arm.deb
+Size: 7954
+MD5sum: 168d81a9c14e2bf49aaa10c49b6842ff
+SHA1: 54d4da7000db30bdc0d9b52452ccade245296e8a
+SHA256: 1bcf27d1d36bcbaebdf529acfcb7cdb2250ae40425f9b07bd66fa5aa6026af26
+Section: Tweaks
+Description: Bigger emoji for iMessages
+Author: PoomSmart
+Name: Bigmoji
+
+Package: com.pw5a29.4gtolte
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/4gtolte.deb
+Size: 12586
+MD5sum: 5bff18a8f49f481fdad2c18edc401bc5
+SHA1: d6a24d2eee2e0c0a24b89b90e3d6b73110b570de
+SHA256: 35db08a1ff9d96d9da2f64ab44767a2b43247fa1f34019cdcda34538d0c7868f
+Section: Tweaks
+Description: Shows LTE instead of 4G, and vice versa
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: http://pw5a29.github.io/Depic/4gtolte/index.html
+Name: 4G to LTE
+
+Package: com.pw5a29.htcemojifont
+Version: 1.2-1
+Architecture: iphoneos-arm
+Depends: com.bytafont.bytafont2
+Filename: debs/htc1.2-1.deb
+Size: 40493602
+MD5sum: 29d0d9519df1c163d5026c870a69b8db
+SHA1: a34e0c308391def8e8f6e3be275ad8978bd2c55a
+SHA256: c9628e0807666073973cf2fc753ff8a0f0f56de52e063fcadaffa08ffa72433f
+Section: Fonts (BytaFont 2)
+Description: Custom HTC font (HTC+EmojiOne)
+Author: pw5a29
+Depiction: http://pw5a29.github.io/Depic/htcemojifont/index.html
+Name: HTC Emoji 8.3+
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
+Package: com.thireus.fixeuhb
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Thireus <repo@thireus.com>
+Installed-Size: 0
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 10.0), sed, com.thireus.untrustedhostsblockerexperimental (= 2.5.1)
+Filename: debs/fixuhb_1.0.1-1_iphoneos-arm.deb
+Size: 1360
+MD5sum: ef1456b19f32c929f68b91a23911c230
+SHA1: 743fa3013e3d36ebf5d95e38e74f789c6631cdd1
+SHA256: 955fb80a5b61dbf6e90372485b9450bdf6e57c9a326d1f2dcbf64f752fa26afc
+Section: Tweaks
+Priority: standard
+Description: Fix Experimental UHB 2.5.1
+ This package should fix the reboot issue occurring when removing/upgrading Experimental Untrusted Hosts Blocker 2.5.1. You don't need to install this package if you are not on iOS 10 or if you already have the most recent version of Experimental Untrusted Hosts Blocker.
+ .
+ The "cut" command line utility Saurik provided in Core Utilities (coreutils version 8.12-12p) was broken on iOS 10 (using "cut" would reboot your device). This package removes "cut" from the "postrm" script of EUHB. Future versions of EUHB won't have this issue.
+ .
+ This package should only be installed once if your iOS 10 phone reboots after upgrading/removing EUHB 2.5.1.
+ .
+ You should remove this package after the installation is complete.
+ .
+ FYI: A new version of Core Utilties is now available on Cydia which also resolves the issue.
+ --------
+ UPDATED: v1.0.1 (06/01/2017) - Initial version.
+Author: Thireus <repo@thireus.com>
+Name: FixEUHB 2.5.1 for iOS 10
+
+Package: ffmpeg
+Version: 5.0.1
+Architecture: iphoneos-arm
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 2284
+Depends: libavcodec59 (= 5.0.1), libavdevice59 (= 5.0.1), libavfilter8 (= 5.0.1), libavformat59 (= 5.0.1), libpostproc56 (= 5.0.1), libswresample4 (= 5.0.1), libswscale6 (= 5.0.1), libavutil57 (= 5.0.1), librubberband2, libtesseract5, libarchive13, libcurl4, libass9, libvidstab1.1, libfontconfig1, libfreetype6, libgnutls30, librtmp1, libgmp10, libhogweed6, libnettle8, libsrt1, libvpx7, libwebpmux3, libwebp7, libdav1d6, libopencore-amrwb0, libsnappy1v5, libaom3, libmp3lame0, libopencore-amrnb0, libopenjp2-7, libopus0, librav1e0, libspeex1, libtheora0, libogg0, libvorbis0a, libvorbisenc2, libx264-164, libx265-199, libsoxr0, liblzma5, libsdl2-2.0-0, libzmq5, libxcb1, libxcb-xfixes0, libxcb-shape0, libxcb-shm0
+Filename: debs/ffmpeg_5.0.1_iphoneos-arm.deb
+Size: 1474778
+MD5sum: ec02e1c83c1112e1a3f73bc3ac27addd
+SHA1: 6b314f1625a33dc00c455d7e8693cc3234405fa2
+SHA256: 5552790fc790be470879011903c2b97ef7f498df3d1b371c8cfd832c25ad76e2
+Section: Multimedia
+Priority: standard
+Description: Tools for transcoding, streaming and playing of multimedia files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This package contains:
+  * ffmpeg: a command line tool to convert multimedia files between formats
+  * ffprobe: a simple multimedia stream analyzer
+  * qt-faststart: a utility to rearrange Quicktime files
+
+Package: net.joedj.purchasestats
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: joedj <purchasestats@joedj.net>
+Installed-Size: 292
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader, firmware (>> 7.0) | org.thebigboss.customwidgeticons
+Filename: debs/net.joedj.purchasestats_1.2-1_iphoneos-arm.deb
+Size: 85224
+MD5sum: 2d80b98e76d23d186b165eb694c00c09
+SHA1: 9ded6ade5c5353388c8df853a248e2693acd8373
+SHA256: 8bc95fbc5df27dfb342805e7796c60ca180788586dca38269e82547c6140ea1a
+Section: Addons (NotificationCenter)
+Homepage: http://cydia.joedj.net/packages/purchasestats/
+Description: Notification widget for Cydia Connect
+Tag: role::developer
+Author: joedj <purchasestats@joedj.net>
+Depiction: http://cydia.joedj.net/packages/purchasestats/
+Icon: file:///Library/WeeLoader/Plugins/PurchaseStats.bundle/PurchaseStats@2x.png
+Name: PurchaseStats
+
+Package: us.diatr.appsyncunified
+Version: 77.0
+Architecture: appletvos-arm64
+Maintainer: Diatrus
+Installed-Size: 80
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 10.0), mobilesubstrate
+Provides: appsync
+Filename: debs/us.diatr.appsyncunified_77.0_appletvos-arm64.deb
+Size: 12316
+MD5sum: f56ecda03e6112085f968513aa6e0cae
+SHA1: 2e9114e82f933fae52195f1ccfe89c2bea0ba9df
+SHA256: a4f472676ba9713681e84dc670d521685530ed8aa92f3edc13230ebd33d33315
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Diatrus
+Name: AppSync Unified
+
+Package: uk.chrotem.oldos
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Chrotem
+Filename: debs/BO4.deb
+Size: 21880
+Section: Applications
+Description: OldOS - Not Mine - this app is to replicate iOS 6 . Do NOT run on iOS 6 or older.
+Author: chrotem
+Name: OldOS (dpkg port)
+
+Package: moe.misty.sslkillswitch3
+Architecture: iphoneos-arm64
+Version: 1.4+rootless
+Section: Tweaks
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debians/moe.misty.sslkillswitch3_1.4+rootless_iphoneos-arm64.deb
+Size: 17230
+MD5sum: a99622b255492cec0eb44acc779c31a0
+SHA1: 5befc45402b72cbc0cb985c2665e7e203d7938ad
+SHA256: f1221e68b4117ec7045c4db285bb75b586e48b09c9ba212b1d688ba275188d3a
+SHA512: 555bedc941f7021a4fa7000901e87a04d217501abd602a36bbe1c04c059e6a0afc6db3888896d8706c06a49213e0d61394356c176e393a81f4a8fe6e7d3a0393
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Name: SSL Kill Switch 3
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+
+Package: dev.preloading.retranslate
+Name: Retranslate
+Description: Fixes Google Translate.
+Maintainer: Preloading
+Author: Preloading, SpaceSaver2000-1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.preloading.retranslate_1.0.0_iphoneos-arm.deb
+Size: 3804
+MD5sum: 2df8f6b888c8f8d831f9ded18b8bed15
+SHA1: 8b336144dc914cbb0b03a17f2d4b46dd0e5b4dc3
+SHA256: 6f09654f45fb105b5c0424e567db98fc65ea3aff8a04e809a9f33bc3fd9bb7d0
+Architecture: iphoneos-arm
+Version: 1.0.0
+Installed-Size: 56
+
+Package: com.nyansatan.dualbootstuff
+Version: 1.0.7a
+Architecture: iphoneos-arm
+Maintainer: Nyan Satan
+Installed-Size: 2749
+Filename: ./debs/dualbootstuff.deb
+Size: 1320838
+MD5sum: 807c78307f99e7483a611a1d7a54901a
+SHA1: 48f75eeaa81e66416d5d5879c8538b14469b7a86
+SHA256: 5709a3b954cd330cf9b7b02900dcddcab2ca038f9fac75cdf385609fdc829c8c
+Section: System
+Description: Dualboot tools
+Author: @danzatt, @winocm, @xerub, @JonathanSeals, @axi0mX, @Apple, @comex, Roderick W. Smith, people behind iphone-dataprotection project, @nyan_satan
+Name: dualbootstuff
+
+Package: com.kjcracks.clutch
+Name: Clutch 2.0.4
+Depends: firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./debs/com.kjcracks.clutch_2.0.4.deb
+Size: 457658
+MD5sum: 91905c606662ce9b63de73285862f92b
+Architecture: iphoneos-arm
+Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
+Maintainer: KJCracks <unknown@unknown.com>
+Author: KJCracks <unknown@unknown.com>
+Section: Terminal Support
+Version: 2.0.4
+
+Package: com.anonymousx.dlgmemorinjected
+Version: 11.3.1-1
+Section: Utilities
+Maintainer: AnonymousxiosdeV
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./Debs///com.anonymousx.dlgmemorinjected_11.3.1-1_iphoneos-arm.deb
+Size: 201590
+Installed-Size: 716
+MD5sum: e4a46318c81498c5b3ea2bbfe3bbc04a
+Description: Injection library that allows you to alter memory in app.
+Name: DLGMemor Injected
+Author: AnonymousxiosdeV
+
+Package: uk.chrotem.jsplash
+Name: Jelly Splash (dpkg port)
+Depends: dpkg
+Description: Jelly Splash, but ported in a package.
+Maintainer: chr0tem
+Author: Zebra Team <team@getzbra.com>
+Section:Applications
+Architecture: iphoneos-arm
+Version: 2.8.0
+Installed-Size: 15032
+
+Package: com.icraze.keepmyjb
+Name: KeepMyJB
+Depends: mobilesubstrate
+Description: Remove the "Software Update" and "Erase All Content And Settings" tabs in the Settings app
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 152
+
+Package: sileo
+Name: Sileo
+Version: 2.5
+Author: Amy While <me@anamy.gay>
+Maintainer: Amy While <me@anamy.gay>
+Description: A modern APT package manager frontend
+Architecture: darwin-amd64
+Depends: coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0), libzstd1
+Section: Packaging
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: com.heaveniphone.ifileosios
+Version: 1.8.1-1
+Section: HiPhone-Apps
+Maintainer: Heaveniphone <heaveniphone@heaveniphone.com>
+Depends: com.heaveniphone.icon, file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Conflicts: com.heaveniphone.ifileios
+Sponsor: Heaven iPhone <http://heaveniphone.com/>
+dev: carsten
+Architecture: iphoneos-arm
+Description: Xem v√† qu·∫£n l√Ω file tr√™n m·ª•c root c·ªßa iPhone
+Name: iFile
+Author: elpelle6 <elpelle6@hotmail.com>
+Depiction: http://heaveniphone.com/cydia/info/ifileios4.php
+
